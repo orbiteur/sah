@@ -18,7 +18,7 @@ import java.util.regex.Pattern;
  *
  * @author orbiteur (orbiteur@gmail.com)
  * @version 0.1 (09/01/2015)
- *
+ * @licence http://www.apache.org/licenses/LICENSE-2.0
  */
 
 public class SAH {
